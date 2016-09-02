@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/username/projectname.git
+git add filename.txt
+git commit -m "some comments"
+git push -u origin master
+git diff
